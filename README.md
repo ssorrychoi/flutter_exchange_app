@@ -14,4 +14,5 @@ Flutter 프레임워크로 환율 앱 만들기.
   - Api (한국수출입은행 환율 정보)
     - https://www.koreaexim.go.kr/site/program/openapi/openApiView?menuid=001003002002001&apino=2&viewtype=C
 - 환율 계산하기
-- UX/UI : 
+- UX/UI : 테마 찾아볼 것 or 지인찬스!
+
