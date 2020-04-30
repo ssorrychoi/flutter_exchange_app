@@ -18,5 +18,5 @@ Flutter 프레임워크로 환율 앱 만들기.
   - https://startflutter.com/
   - https://github.com/mitesh77/Best-Flutter-UI-Templates
   - https://awesomeopensource.com/projects/flutter
-  - helloworld
-  - hi
+- 예시 
+  - https://github.com/Origogi/flutter_currency_exchange
